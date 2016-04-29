@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Takoyaki.unity
+  isLoaded: 1
+  isActive: 1
